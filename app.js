@@ -10,4 +10,4 @@ const drums = new Howl({
   },
 });
 
-drums.play("snare");
+drums.play("kick");
